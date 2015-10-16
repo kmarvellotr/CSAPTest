@@ -10,7 +10,7 @@ public class FibonacciSequence {
         System.out.print("Enter number upto which Fibonacci series to print: ");
         int number = new Scanner(System.in).nextInt();
  
-        System.out.println("\n\nFibonacci series upto " + number +" numbers : ");
+        System.out.println("Fibonacci Number " + number + " is " + fibo[fiboNumber]);
         //printing Fibonacci series upto number
         for(int i=1; i<=number; i++){
             System.out.print(fibonacciRecusion(i) +" ");
