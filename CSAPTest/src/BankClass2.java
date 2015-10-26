@@ -29,13 +29,23 @@ class Bank
 	
 	public Bank()
 	{
-		checking 
+		checking = 0;
+		savings = 0;
+	}
 	
-	public double getChecking ()
+	public double getChecking()
 	{
 		return checking;
 	}
 	
+	public double getSavings()
+	{
+		return savings;
+	}
+	
+	public double alterSavings()
+	{
+		
 
 
 

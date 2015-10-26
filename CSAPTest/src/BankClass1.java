@@ -15,7 +15,7 @@ public class BankClass1 {
 }
 
 
-class Bank
+/*class Bank
 {
 	private double checking;
 	private double savings;
@@ -42,4 +42,4 @@ class Bank
 	
 }
 
-
+*/
